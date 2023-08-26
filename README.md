@@ -1,0 +1,2 @@
+# RollerCoasterHeightChecker
+Checks height 
